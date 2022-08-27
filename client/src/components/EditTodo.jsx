@@ -39,7 +39,7 @@ function EditTodo({ todo }) {
           ></div>
           <div
             className="absolute top-1/3 left-1/2 transform -translate-x-1/2 -translate-y-1/2
-        bg-white  w-[90%] sm:w-[50git 0px] "
+        bg-white  w-[90%] sm:w-[500px] "
           >
             <div className="flex justify-between px-4 py-2 border-b-[1px] ">
               <h1 className="text-2xl font-bold">Edit Todo</h1>
